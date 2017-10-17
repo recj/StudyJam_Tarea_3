@@ -1,4 +1,4 @@
-Solucion Tarea e - Study Jam
+Solucion Tarea 3 - Study Jam
 ========================
 
 En esta aplicacion se desarrolla la tarea 3 del Study Jam en la que se realiza el uso de cardViews y RecyclerViews.
@@ -15,7 +15,7 @@ Uso
 ---------
 Para probar este ejemplo clona este repositorio de la siguiente forma:
 >
->     $ git clone https://github.com/recj/StudyJam_Tarea_2.git
+>     $ git clone https://github.com/recj/StudyJam_Tarea_3.git
 
 Dentro de Android Studio:
 
