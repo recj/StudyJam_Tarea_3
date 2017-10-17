@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StudyJam_Tarea3</string>
+        <string name="Descripcion_Facebook">Facebook es un sitio web de redes sociales creado por Mark Zuckerberg y fundado junto a Eduardo Saverin, Chris Hughes y Dustin Moskovitz. Originalmente era un sitio para estudiantes de la Universidad de Harvard.</string>
+        <string name="Descripcion_Painterst">Pinterest es una plataforma para compartir imágenes que permite a los usuarios crear y administrar, en tableros personales temáticos, colecciones de imágenes como eventos, intereses, hobbies y mucho más. </string>
+        <string name="Descripcion_Shazam">Shazam es una aplicación para telefonía móvil que incorpora un servicio que permite la identificación de música.</string>
+        <string name="Descripcion_Skype">Skype es un software que permite que todo el mundo se comunique. Millones de personas y empresas ya usan Skype para hacer llamadas y videollamadas gratis individuales y grupales, enviar mensajes instantáneos y compartir archivos con otras personas que usan Skype.</string>
+        <string name="Descripcion_Spotify">Spotify  permite a los miembros escuchar las novedades antes de su lanzamiento y antes que los usuarios de las opciones gratuitas de Spotify. </string>
+        <string name="Descripcion_Telegram">Telegram es un sistema de mensajería instantánea para chatear con amigos, familiares y todo aquel que se encuentre en nuestra lista de contactos.</string>
+        <string name="Descripcion_Twitter">Twitter es un servicio de microblogging, con sede en San Francisco, California, con filiales en San Antonio (Texas) y Boston (Massachusetts) en Estados Unidos. Twitter, Inc. fue creado originalmente en California, pero está bajo la jurisdicción de Delaware desde 2007.</string>
+        <string name="Descripcion_Youtube">YouTube es un portal del Internet que permite a sus usuarios subir y visualizar videos. Fue creado en febrero de 2005 por Chad Hurley, Steve Chen y Jawed Karim, quienes se conocieron trabajando en PayPal. Un año más tarde, YouTube fue adquirido por Google en 1.650 millones de dólares.</string>
+
+
+</resources>
+
